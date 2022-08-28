@@ -7,7 +7,7 @@ print("Hello! Press ` on your keyboard to the Autoclicker on or off. You can clo
 print("Note: Only use in games which allow Autoclicker or singleplayer games.")
 print("Made by W A V I B O I.")
 
-delay = 0.00000000000001
+delay = 0.000000000000001
 button = Button.left
 start_stop_key = KeyCode(char='`')
 exit_key = KeyCode(char='k')
